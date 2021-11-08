@@ -19,7 +19,7 @@ header{
 
 
 h1{
-    font-size: 40px;
+    font-size: 60px;
     margin: 0%;
 }
 
@@ -38,6 +38,50 @@ figure{
     background-color: gold;
 }
 
-th{
-    background-color: aqua;
+.thead{
+    background-color:rgba(62, 174, 226, 1);
+    height: 20px;
+    color: white;
 }
+
+.t1{
+    background-color: rgba(100, 190, 200, 0.5);
+    height: 50px;
+}
+
+.t2{
+    
+    height: 50px;
+}
+
+.t3{
+    background-color: rgba(100, 190, 200, 0.5);
+    height: 50px;
+}
+
+h3{
+    color: rgba(100, 100, 100, 1);
+    margin:1%
+}
+
+div{
+    position:relative;  
+    margin:1%;
+}
+
+.bold1{
+    color:white;
+    position: absolute;
+    left: 40px;
+    font-size: 25px;
+}
+
+.bold2{
+    color:white;
+    position: absolute;
+    left: 40px;
+    font-size: 25px;
+}
+
+
+    
