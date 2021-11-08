@@ -11,9 +11,10 @@ header{
     background-size: 300px;
 }
 
-h2{
-    font-family: 'Mohave', sans-serif;;
-    color: white;
+.logo{
+    width: 200px;
+    margin-top: 50px;
+    
 }
 
 
@@ -23,7 +24,7 @@ h1{
 }
 
     
-span{
+.booleaner{
     color: turquoise;
     font-size: 19px;
 }
@@ -31,4 +32,12 @@ span{
 figure{
     margin-left: 0%;
     
+}
+
+.evidenziato{
+    background-color: gold;
+}
+
+th{
+    background-color: aqua;
 }
